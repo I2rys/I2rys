@@ -7,3 +7,5 @@
 <h4 align="center">Discord: SucY#3048</h4>
 <h2 align="center">Community</h2>
 <h4 align="center">Discord Server: https://discord.gg/Jz5E2SKkee</h4>
+<h2 align="center">Others</h2>
+<h4 align="center">NPMJS: https://www.npmjs.com/~i2rys</h4>
