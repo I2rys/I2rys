@@ -10,3 +10,4 @@
 <h2 align="center">Others</h2>
 <h4 align="center">NPMJS: https://www.npmjs.com/~i2rys</h4>
 <h4 align="center">Crackmes: https://crackmes.one/user/I2rys</h4>
+<h4 align="center">Edabit: https://edabit.com/user/aTzRL7n8AwETehx8k</h4>
