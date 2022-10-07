@@ -7,4 +7,4 @@
 </p>
 
 <h1 align="center">Community</h1>
-<p align="center"><a href="https://discord.com/invite/A2W7JSBNe8">Discord Server</a></p>
+<p align="center"><a href="https://discord.gg/uqGXCDerQw">Discord Server</a></p>
