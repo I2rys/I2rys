@@ -7,7 +7,4 @@
 - Your privacy is you. If It's compromised so you are.<br>
 - Before privacy there is security, and without security, who is going to protect your privacy?<br>
 - It only takes 1 lie to destroy an organization reputation without great reasons.
-
-<hr>
-<p align="center"><a href="https://i2rys.vercel.app/">Website</a></p>
-<p align="center"><a href="http://127.0.0.1:43110/1EZPQZyGBavj3TQJXdBnfZ1Kcw4WgnXDFr/">Website (ZeroNet)</a></p>
+- It's impossible to decipher something that doesn't exists.
